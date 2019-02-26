@@ -26,7 +26,9 @@ If you can understand codes in the [Science-CrossCoupling Tutorial](https://gith
 
 # Instructions of this tutorial
 
-* Part1 
+* Part1 Train RF Model with manually selected features (Page S51 - S59)
+
+* Part2 Train RF Model with One-Hot Encoding (Page S60 - S63)
 
 # License
 
